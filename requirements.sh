@@ -1,0 +1,5 @@
+echo "gopkg.in/check.v1"
+echo "launchpad.net/gnuflag"
+echo "golang.org/x/crypto/ssh/terminal"
+echo "golang.org/x/crypto/bcrypt"
+echo "github.com/tsuru/tsuru/auth"
